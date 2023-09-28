@@ -1,0 +1,29 @@
+[
+    {
+        "id": "e1",
+        "name": "Event A",
+        "description": "Description of Event x",
+        "imageURL": "https://images.unsplash.com/photo-1695653422468-e28c0b88c143?ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxlZGl0b3JpYWwtZmVlZHwxNnx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "date": "2023-10-01T12:00:00Z",
+        "latitude": 37.73932949060951,
+        "longitude": -122.41899921297478
+    },
+    {
+        "id": "e2",
+        "name": "Event BA",
+        "description": "Description of Event a",
+        "imageURL": "https://images.unsplash.com/photo-1695653422468-e28c0b88c143?ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxlZGl0b3JpYWwtZmVlZHwxNnx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "date": "2023-10-01T12:00:00Z",
+        "latitude": 37.73932949060951,
+        "longitude": -122.41899921297478
+    },
+    {
+        "id": "e3",
+        "name": "Event 2",
+        "description": "Description of Event 2",
+        "imageURL": "https://images.unsplash.com/photo-1695653422468-e28c0b88c143?ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxlZGl0b3JpYWwtZmVlZHwxNnx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "date": "2023-10-15T14:00:00Z",
+        "latitude": 43.64836495650017,
+        "longitude": -79.39827763619523
+    }
+]
