@@ -18,5 +18,45 @@
         "websiteURL": "https://www.instagram.com/915dupont/",
         "profileName": "915 Dupont",
         "profileImageURL": "https://media6.imgyb.xyz/media/v1/image/5ea7a26e91921ceec0912b012f3d8078.png"
+    },
+    {
+        "id": "e3",
+        "name": "Mise at The Combine",
+        "description": "Celebrating 1 year of Studio 店 Mise, a retrospective exhibition of collections, collaborations, archived work and good times.",
+        "imageURL": "https://studiomise.shop/cdn/shop/t/1/assets/slide_1_1024x1024.jpg",
+        "date": "2023-10-01T12:00:00Z",
+        "websiteURL": "https://www.instagram.com/studiomise/",
+        "profileName": "Studio Mise",
+        "profileImageURL": "https://example.com/profile.jpg"
+    },
+    {
+        "id": "e4",
+        "name": "Mise at The Combine",
+        "description": "Celebrating 1 year of Studio 店 Mise, a retrospective exhibition of collections, collaborations, archived work and good times.",
+        "imageURL": "https://studiomise.shop/cdn/shop/t/1/assets/slide_1_1024x1024.jpg",
+        "date": "2023-10-01T12:00:00Z",
+        "websiteURL": "https://www.instagram.com/studiomise/",
+        "profileName": "Studio Mise",
+        "profileImageURL": "https://example.com/profile.jpg"
+    },
+    {
+        "id": "e5",
+        "name": "Mise at The Combine",
+        "description": "Celebrating 1 year of Studio 店 Mise, a retrospective exhibition of collections, collaborations, archived work and good times.",
+        "imageURL": "https://studiomise.shop/cdn/shop/t/1/assets/slide_1_1024x1024.jpg",
+        "date": "2023-10-01T12:00:00Z",
+        "websiteURL": "https://www.instagram.com/studiomise/",
+        "profileName": "Studio Mise",
+        "profileImageURL": "https://example.com/profile.jpg"
+    },
+    {
+        "id": "e6",
+        "name": "Mise at The Combine",
+        "description": "Celebrating 1 year of Studio 店 Mise, a retrospective exhibition of collections, collaborations, archived work and good times.",
+        "imageURL": "https://studiomise.shop/cdn/shop/t/1/assets/slide_1_1024x1024.jpg",
+        "date": "2023-10-01T12:00:00Z",
+        "websiteURL": "https://www.instagram.com/studiomise/",
+        "profileName": "Studio Mise",
+        "profileImageURL": "https://example.com/profile.jpg"
     }
 ]
