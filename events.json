@@ -1,29 +1,22 @@
 [
     {
         "id": "e1",
-        "name": "Event A",
-        "description": "Description of Event x",
-        "imageURL": "https://images.unsplash.com/photo-1695653422468-e28c0b88c143?ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxlZGl0b3JpYWwtZmVlZHwxNnx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "name": "Grand Opening",
+        "description": "We're giving away 25 tickets to our official invite-only Grand Opening Party! The eventbrite page (link in bio) will go live at 1pm tomorrow. Good luck!",
+        "imageURL": "https://media.blogto.com/uploads/2023/04/10/1681156133-20230409-ChessClub915Dupont-7.jpg?",
         "date": "2023-10-01T12:00:00Z",
-        "latitude": 37.73932949060951,
-        "longitude": -122.41899921297478
+        "websiteURL": "https://www.instagram.com/915dupont/",
+        "profileName": "915 Dupont",
+        "profileImageURL": "https://media6.imgyb.xyz/media/v1/image/5ea7a26e91921ceec0912b012f3d8078.png"
     },
     {
         "id": "e2",
-        "name": "Event BA",
-        "description": "Description of Event a",
-        "imageURL": "https://images.unsplash.com/photo-1695653422468-e28c0b88c143?ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxlZGl0b3JpYWwtZmVlZHwxNnx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "name": "Mise at The Combine",
+        "description": "Celebrating 1 year of Studio 店 Mise, a retrospective exhibition of collections, collaborations, archived work and good times.",
+        "imageURL": "https://studiomise.shop/cdn/shop/t/1/assets/slide_1_1024x1024.jpg",
         "date": "2023-10-01T12:00:00Z",
-        "latitude": 37.73932949060951,
-        "longitude": -122.41899921297478
-    },
-    {
-        "id": "e3",
-        "name": "Event 2",
-        "description": "Description of Event 2",
-        "imageURL": "https://images.unsplash.com/photo-1695653422468-e28c0b88c143?ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxlZGl0b3JpYWwtZmVlZHwxNnx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
-        "date": "2023-10-15T14:00:00Z",
-        "latitude": 43.64836495650017,
-        "longitude": -79.39827763619523
+        "websiteURL": "https://www.instagram.com/studiomise/",
+        "profileName": "Studio Mise",
+        "profileImageURL": "https://example.com/profile.jpg"
     }
 ]
