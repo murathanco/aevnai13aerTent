@@ -1,15 +1,5 @@
 [
     {
-        "id": "e1",
-        "name": "Grand Opening",
-        "description": "We're giving away 25 tickets to our official invite-only Grand Opening Party! The eventbrite page (link in bio) will go live at 1pm tomorrow. Good luck!",
-        "imageURL": "https://d2l4kn3pfhqw69.cloudfront.net/wp-content/uploads/2023/08/Snapinsta.app_367407068_1055528495417212_646000283074890312_n_1080.jpg",
-        "date": "2023-10-01T12:00:00Z",
-        "websiteURL": "https://www.instagram.com/915dupont/",
-        "profileName": "915 Dupont",
-        "profileImageURL": "https://media6.imgyb.xyz/media/v1/image/5ea7a26e91921ceec0912b012f3d8078.png"
-    },
-    {
         "id": "e2",
         "name": "Mise at The Combine",
         "description": "Celebrating 1 year of Studio 店 Mise, a retrospective exhibition of collections, collaborations, archived work and good times.",
@@ -18,5 +8,15 @@
         "websiteURL": "https://www.instagram.com/studiomise/",
         "profileName": "Studio Mise",
         "profileImageURL": "https://example.com/profile.jpg"
+    },
+    {
+        "id": "e1",
+        "name": "Grand Opening",
+        "description": "We're giving away 25 tickets to our official invite-only Grand Opening Party! The eventbrite page (link in bio) will go live at 1pm tomorrow. Good luck!",
+        "imageURL": "https://d2l4kn3pfhqw69.cloudfront.net/wp-content/uploads/2023/08/Snapinsta.app_367407068_1055528495417212_646000283074890312_n_1080.jpg",
+        "date": "2023-10-01T12:00:00Z",
+        "websiteURL": "https://www.instagram.com/915dupont/",
+        "profileName": "915 Dupont",
+        "profileImageURL": "https://media6.imgyb.xyz/media/v1/image/5ea7a26e91921ceec0912b012f3d8078.png"
     }
 ]
